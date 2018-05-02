@@ -1,6 +1,6 @@
 <?php
 require_once('include/DB.php');
-
+// CAMBIO!!
 $error = '';
 
 // Comprobamos si ya se ha enviado el formulario
